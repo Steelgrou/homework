@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+
+.frame0 {
+    text-align: center;
+    background-color: #A7D7C5;
+
+}
+
+.frame1 {
+    display:inline-block;
+    border-style: solid;
+    text-align: center;
+    background-color: #FFF;
+    border-style: solid;
+    font-family: karla;
+    border-radius: 49.0901px;
+    border-width: 1px;
+    padding: 20px 60px 10px 60px;
+    background-color:#F6FBF9 ;
+    border-color: white;
+    margin: 10em;
+    
+}
+/* #header {
+    display: inline;
+    color: #212B27;
+  
+} */
+
+/* .top {
+    display: inline-block;
+}
+
+#email {
+    
+    
+
+ 
+} */
+
+.btn p {
+   display: inline-block;
+   color:#FFFFFF;
+   border-radius: 1em;
+   border-width: 1px;
+   border-style: solid;
+   border-color: white;
+   background-color:#84C7AE ;
+   padding: 1em 3em;
+   
+}
+
