@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+
+.frame0 {
+    text-align: center;
+    background-color: #A7D7C5;
+
+}
+
+.frame1 {
+    display:inline-block;
+    border-style: solid;
+    text-align: center;
+    background-color: #FFF;
+    border-style: solid;
+    font-family: karla;
+    border-radius: 49.0901px;
+    border-width: 1px;
+    padding: 20px 60px 10px 60px;
+    background-color:#F6FBF9 ;
+    border-color: white;
+    margin: 10em;
+    
+}
+/* #header {
+    display: inline;
+    color: #212B27;
+  
+} */
+
+/* .top {
+    display: inline-block;
+} */
+
+#email input {
+    background: #FFFFFF;
+    border-radius:15.34px ;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    padding: 1em 10em 1em 1em;
+    color: rgba(0, 0, 0, 0.5);
+    
+}
+
+.password input {
+    background: #FFFFFF;
+    border-radius:15.34px ;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    padding: 1em 10em 1em 1em;
+    
+    
+
+}
+
+.btn button {
+ font-weight: 700;
+ font-size: 14px;
+ border-radius: 1em;
+ color: #FFFFFF;
+ border-style: normal;
+ border-width: 1px;
+ border-color: #84C7AE;
+ background-color: #84C7AE;
+ padding: 1em 4em 1em 4em;
+
+}
+
+
